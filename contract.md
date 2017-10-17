@@ -152,18 +152,18 @@ ADDRESS
 
 For Customer, who warrants that he/she is duly authorized hereto.
 
-| Signature  |   |
-| --- | --- |
-| Name  |   |
-| Witness  |   |
-| Place  |   |
-| Date  |   |
+Signature:____________________________
+Name:____________________________
+
+Witness:_____________________________
+Place:_____________________________
+Date:________________________
 
 For Developer, who warrants that he/she is duly authorized hereto:
 
-| Signature  |   |
-| --- | --- |
-| Name  |   |
-| Witness  |   |
-| Place  |   |
-| Date  |   |
+Signature:____________________________
+Name:____________________________
+
+Witness:_____________________________
+Place:_____________________________
+Date:________________________
