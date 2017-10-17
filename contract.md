@@ -113,7 +113,7 @@ ADDRESS
 <br>(c) **Customer Repository**. If Customer wishes to keep source in their repository, then full project cost must be paid to Developer upfront as deposit
 <br>12.4. **Responsibility.** It is the responsibility of the Developer to ensure that all necessary measures (code reviews, meetings, procedures and structures) are in place to ensure the quality and scope of the work meets the reasonable requirements expected by Customer.
 
-13. **PROJECT MANAGEMENT**
+13. **Project Management**
 <br>13.1. The project team will be required to attend the necessary project meetings during the course of the project. All meetings, telephone calls, traveling, et al, will be billed at agreed contract rate, unless special provision has been made for in the accepted cost estimate. If these hours exceed provided hours in cost estimate, excess hours will be billed at agreed rate.
 <br>13.2. It is the responsibility of the Developer to make themselves available at reasonable notice.
 
