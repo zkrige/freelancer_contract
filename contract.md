@@ -41,7 +41,7 @@ ADDRESS
     (a)All time to be logged, against the correct project
     (b)Time logs should include semi detailed messages regarding what work was done on the logged time
     
-  2.5. **Code Commits.** Code will be pushed to git repo as often as possible to avoid any potential losses.
+    2.5. **Code Commits.** Code will be pushed to git repo as often as possible to avoid any potential losses.
 
 3. **Acceptance for Fixed Scope contracts**
 	
