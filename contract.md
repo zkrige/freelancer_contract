@@ -2,45 +2,56 @@
 
 This Software Development Agreement (the &quot;Agreement &quot;), is made effective on date of signing by and between
 
+<p align="center">
 COMPANY (&quot;Developer&quot;),
-
+<p align="center">
 a sole proprietorship with its principal place of business located at
-
+<p align="center">
+ADDRESS
+<p align="center">
+and
+<p align="center">
+COMPANY NAME
+<p align="center">
+(Registration number xxxxx)
+<p align="center">
+(&quot;Licensee&quot;, &quot;Customer&quot;, &quot;Client&quot;),
+<p align="center">
+with its principal place of business located at
+<p align="center">
 ADDRESS
 
-and
-
-COMPANY NAME
-
-(Registration number xxxxx)
-
-(&quot;Licensee&quot;, &quot;Customer&quot;, &quot;Client&quot;),
-
-with its principal place of business located at
-
-address
 
 
+1. **Development Services**. Customer engages Developer, and Developer agrees to perform services for Customer to develop, deliver, support and maintain the Software in accordance with the terms and conditions of this agreement.
 
-1. **1.**** Development Services**. Customer engages Developer, and Developer agrees to perform services for Customer to develop, deliver, support and maintain the Software in accordance with the terms and conditions of this agreement.
-  1. **1.1.** The Customer agrees that only Developer is contracted to develop the solution. If the client wishes to bring in other developers, this is to be agreed upon in writing before hand
-  2. **1.2.** failure to adhere to these terms is considered breach of contract and Customer agrees to pay all outstanding fees owing to Developer for work done
+	1.1. The Customer agrees that only Developer is contracted to develop the solution. If the client wishes to bring in other developers, this is to be agreed upon in writing before hand
+	
+	1.2. failure to adhere to these terms is considered breach of contract and Customer agrees to pay all outstanding fees owing to Developer for work done
 
-1. **2.**** Duties and Responsibilities**
-  1. **2.1.**** Specifications**. Customer shall define the Specifications, Deliverables, and Schedules (the &quot;Specifications&quot;).
-  2. **2.2.**** Development**. Developer shall design, develop, and implement the Software in accordance with the Specifications.
-  3. **2.3.**** Delivery**. Developer shall use commercially reasonable efforts to deliver to Customer, as agreed upon in accepted estimate, the Software in accordance with the Specifications.
-  4. **2.4.**** Time Logging** (for ad hoc projects only)
-    1. (a)All time to be logged, against the correct project
-    2. (b)Time logs should include semi detailed messages regarding what work was done on the logged time
-  5. **2.5.**** Code Commits.** Code will be pushed to git repo as often as possible to avoid any potential losses.
+2. **Duties and Responsibilities**
 
-1. **3.**** Acceptance for Fixed Scope contracts**
-  1. **3.1.**** Acceptance Period**. Customer will have 1 week following the date of delivery to assess and test the Software. Should bugs be found, the acceptance period will be extended by a week after the bug fix has been committed by the developer
-  2. **3.2.**** Completion**. If Developer delivers the Software in accordance with the Specifications, Deliverables, or Schedule, then Developer shall be deemed to have completed its delivery obligations.
-  3. **3.3.**** Rejection**. If Developer fails to deliver the Software in accordance with the Specifications, Deliverables, or Schedule, then:
-    1. (a) **Notification** : Customer shall detail in writing its grounds for rejection; and
-    2. (b) **Rectification**. Developer shall use its best efforts to correct the Software and upon delivery of such correction, the process of acceptance, completion, and rejection shall restart.
+	2.1. **Specifications**. Customer shall define the Specifications, Deliverables, and Schedules (the "Specifications").
+	
+	2.2. **Development**. Developer shall design, develop, and implement the Software in accordance with the Specifications.
+	
+  	2.3. **Delivery**. Developer shall use commercially reasonable efforts to deliver to Customer, as agreed upon in accepted estimate, the Software in accordance with the Specifications.
+  	
+  	2.4. **Time Logging** (for ad hoc projects only)
+    (a)All time to be logged, against the correct project
+    (b)Time logs should include semi detailed messages regarding what work was done on the logged time
+    
+  2.5. **Code Commits.** Code will be pushed to git repo as often as possible to avoid any potential losses.
+
+3. **Acceptance for Fixed Scope contracts**
+	
+	3.1. **Acceptance Period**. Customer will have 1 week following the date of delivery to assess and test the Software. Should bugs be found, the acceptance period will be extended by a week after the bug fix has been committed by the developer
+  	
+  	3.2. **Completion**. If Developer delivers the Software in accordance with the Specifications, Deliverables, or Schedule, then Developer shall be deemed to have completed its delivery obligations.
+  	
+  	3.3.**Rejection**. If Developer fails to deliver the Software in accordance with the Specifications, Deliverables, or Schedule, then:
+    (a) **Notification** : Customer shall detail in writing its grounds for rejection; and
+    (b) **Rectification**. Developer shall use its best efforts to correct the Software and upon delivery of such correction, the process of acceptance, completion, and rejection shall restart.
     3. (c) **Continued Failure**. If the Developer&#39;s corrections fails to deliver the Software in accordance with the Specifications, Deliverables, or Schedule, then Customer may elect to:
       1. (i)terminate the agreement, or
       2. (ii)adjust the Specifications, Deliverables, or Schedule.
