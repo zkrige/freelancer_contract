@@ -24,7 +24,9 @@ ADDRESS
 
 
 1. **Definitions**.
+
 	1.1. **Ad Hoc project** A project that has no fixed scope. The opposite of a fixed scope project. Generally this will be something along the lines of "We need capacity to help us out with a bunch of tasks, and will give you tasks to complete on a daily basis"
+	
 	1.2 **Fixed Scope contract** A project where the scope is defined and quoted on by the developer. This will not change during the duration of the contract. Changes to scope (aka scope creep) will be quote on separately by developer, or must be treated as ad hoc items and billed accordingly
 
 1. **Development Services**. Customer engages Developer, and Developer agrees to perform services for Customer to develop, deliver, support and maintain the Software in accordance with the terms and conditions of this agreement.
