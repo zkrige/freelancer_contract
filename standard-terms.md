@@ -1,6 +1,6 @@
 # Standard Terms of Business for Software Development Services
 
-**Version 2.0**
+**Version 2.1**
 
 These Standard Terms are incorporated by reference into the Project Terms signed by the Parties. They do not stand alone: they take effect only once Project Terms referring to them are signed.
 
@@ -48,13 +48,17 @@ In the Agreement, the following terms have the following meanings:
 
 **"Payment Period"** means the period stated in Schedule 1 within which an invoice must be paid.
 
+**"Procured Items"** means the domain names, hosting, certificates, software licences, subscriptions, accounts, registrations and other third party products or services that the Developer acquires on the Customer's written instruction and for the Customer's benefit under clause 9A, as recorded in Schedule 4. Procured Items are not Software.
+
+**"Procurement Fee"** means the handling fee, if any, stated in Schedule 1 for acquiring Procured Items.
+
 **"Project Terms"** means the project specific agreement signed by the Parties which incorporates these Standard Terms by reference.
 
 **"Project Type"** means whether the engagement is a Fixed Scope Project or an Ad Hoc Project, as stated in the Project Terms.
 
 **"Remedy Period"** means the period stated in Schedule 1 within which a Party must remedy a material breach after receiving notice of it.
 
-**"Schedules"** means the schedules attached to the Project Terms, being at minimum Schedule 1 (Commercial Terms), Schedule 2 (Scope and Deliverables) and Schedule 3 (Milestones and Payment).
+**"Schedules"** means the schedules attached to the Project Terms, being at minimum Schedule 1 (Commercial Terms), Schedule 2 (Scope and Deliverables), Schedule 3 (Milestones and Payment) and Schedule 4 (Procured Items).
 
 **"Software"** means the software the Developer is to develop under the Agreement, as described in Schedule 2, including the Source Code and any documentation delivered with it.
 
@@ -71,6 +75,8 @@ In the Agreement, the following terms have the following meanings:
 **"Total Project Cost"** means the total fees payable for the project as stated in Schedule 1 or, for an Ad Hoc Project, the total invoiced to date.
 
 **"Training Rate"** means the hourly rate for training stated in Schedule 1.
+
+**"Transfer Period"** means the period stated in Schedule 1 within which the Customer must pay for and take transfer of a Procured Item under clause 9A.8.
 
 **"Warranty Period"** means the period stated in Schedule 1 during which the warranties in clause 11.2 apply.
 
@@ -208,6 +214,26 @@ If there is a conflict between the documents making up the Agreement, they take 
 
 ---
 
+## 9A. Procured Items
+
+9A.1 **Instruction.** The Developer will acquire Procured Items only on the Customer's written instruction. Procured Items known at the Effective Date are listed in Schedule 4. A Procured Item acquired on a later written instruction is deemed added to Schedule 4 without a Change Order.
+
+9A.2 **Cost.** Procured Items are charged at cost plus the Procurement Fee. A written instruction under clause 9A.1 is agreement in writing for the purposes of clause 9.2. The Developer may require payment before acquiring or renewing a Procured Item, and may otherwise include the cost in its next invoice under clause 9.3.
+
+9A.3 **Ownership.** The Customer is the beneficial owner of each Procured Item from payment of its cost. Where a Procured Item is registered or held in the Developer's name, the Developer holds it as nominee for the Customer, will not use it for any other purpose, and will act on the Customer's reasonable instructions in respect of it. Clause 10 does not apply to Procured Items.
+
+9A.4 **Transfer.** On the Customer's written request, and in any event on termination or expiry of the Agreement, the Developer will transfer each Procured Item to the Customer or its nominee, provided all amounts owing in respect of that Procured Item have been paid. The Customer bears any transfer fees and shall provide the account details needed to receive the transfer. Where the third party provider does not permit transfer, the Developer will cooperate reasonably so that the Customer can obtain an equivalent, and will cancel the Procured Item on the Customer's written instruction.
+
+9A.5 **Renewals.** The Developer will give the Customer reasonable notice of any renewal date it is aware of. The Developer is not obliged to renew a Procured Item unless the Customer has instructed the renewal in writing and paid for it. The Developer is not liable for the lapse, loss or suspension of a Procured Item resulting from the Customer's failure to instruct or pay in time.
+
+9A.6 **Third party terms.** The Customer shall comply with the third party provider's terms for each Procured Item. The Developer gives no warranty in respect of Procured Items, and clause 11.3 applies to them. The Customer shall indemnify the Developer against all claims, costs and liabilities arising from the Customer's use of a Procured Item or any content hosted on or through it.
+
+9A.7 **Access.** Until transfer, the Developer may retain administrative control of a Procured Item and will give the Customer the access reasonably necessary for its use.
+
+9A.8 **Unclaimed items.** If, within the Transfer Period after termination or expiry of the Agreement or after the Developer's written notice that a Procured Item is ready for transfer, the Customer has not paid all amounts owing in respect of that Procured Item or has not provided what is needed to receive its transfer, the Developer may cancel the Procured Item or allow it to lapse, without liability to the Customer.
+
+---
+
 ## 10. Assignment of Rights
 
 10.1 On acceptance of the Software and payment of all compensation due to the Developer, the Developer grants and assigns to the Customer its entire right, title and interest in the Software, including all Intellectual Property Rights in it.
@@ -292,7 +318,7 @@ If there is a conflict between the documents making up the Agreement, they take 
 
 (a) **Termination for cause.** If a Party (i) commits a material breach or material default in the performance of any of its obligations under the Agreement, and (ii) that breach or default continues for the Remedy Period after the other Party delivers written notice reasonably detailing it, then (iii) the non-breaching Party may terminate the Agreement with immediate effect by written notice.
 
-(b) **Effect of termination.** On termination of the Agreement: (i) any licence granted to the Customer under the Agreement terminates; and (ii) the Customer shall cease all use of the Software and destroy or erase all copies of the Software in its possession or control.
+(b) **Effect of termination.** On termination of the Agreement: (i) any licence granted to the Customer under the Agreement terminates; and (ii) the Customer shall cease all use of the Software and destroy or erase all copies of the Software in its possession or control. This clause does not apply to Procured Items, which are dealt with under clause 9A.4.
 
 (c) **Outstanding fees.** On termination of the Agreement, all monies owing to the Developer become immediately payable.
 
@@ -328,4 +354,4 @@ If there is a conflict between the documents making up the Agreement, they take 
 
 18.8 **Waiver.** Failure or neglect by either Party to enforce at any time any of the provisions of the Agreement is not a waiver of that Party's rights under it.
 
-18.9 **Survival.** Clauses 1, 9, 10, 11.3, 14, 16, 17.2, 17.3 and 18 survive termination or expiry of the Agreement.
+18.9 **Survival.** Clauses 1, 9, 9A, 10, 11.3, 14, 16, 17.2, 17.3 and 18 survive termination or expiry of the Agreement.
