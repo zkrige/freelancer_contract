@@ -25,7 +25,7 @@ Replace every `[...]` placeholder. Delete rows that do not apply.
 
 ## 3. Incorporation of Standard Terms
 
-3.1 The Developer's Standard Terms of Business for Software Development Services, version `[2.0]`, published at `[URL or "attached as Annexure A"]` (the **"Standard Terms"**), are incorporated into and form part of this agreement.
+3.1 The Developer's Standard Terms of Business for Software Development Services, version `[2.1]`, published at `[URL or "attached as Annexure A"]` (the **"Standard Terms"**), are incorporated into and form part of this agreement.
 
 3.2 The Customer confirms that it has been given a copy of the Standard Terms, has had the opportunity to read them, and agrees to be bound by them.
 
@@ -46,6 +46,7 @@ Replace every `[...]` placeholder. Delete rows that do not apply.
 | Support Rate | `R[XXXX] per hour` | 8.3 |
 | Training Rate | `R[XXXX] per hour` | 7.3 |
 | Meeting and travel hours included | `[N] hours`, excess at the Development Fee | 15.1 |
+| Procurement Fee | `[0]% of cost` / `R[XXXX] per item` | 9A.2 |
 | VAT | `[excluded / included]` | 1.2(g) |
 | Payment Period | `[7] days from invoice date` | 9.4 |
 | Late payment interest | `[2]% of the overdue amount per month` | 9.5 |
@@ -97,6 +98,17 @@ Replace every `[...]` placeholder. Delete rows that do not apply.
 |---|---|
 | Invoice date | The `[20th]` of each month |
 | Payment terms | Cash on delivery, within the Payment Period |
+
+---
+
+# Schedule 4: Procured Items
+
+Items the Developer acquires on the Customer's behalf under clause 9A of the Standard Terms. Items acquired on a later written instruction are deemed added here. Delete this Schedule if nothing is procured.
+
+| # | Item | Provider | Held in the name of | Cost | Renewal date | Transfer |
+|---|---|---|---|---|---|---|
+| 1 | `[example.co.za]` | `[REGISTRAR / PROVIDER]` | `[Developer / Customer]` | `R[XXXX] per year`, at cost plus the Procurement Fee | `[DATE]` | `[On request / On completion]` |
+| 2 | | | | | | |
 
 ---
 
