@@ -58,7 +58,7 @@ In the Agreement, the following terms have the following meanings:
 
 **"Remedy Period"** means the period stated in Schedule 1 within which a Party must remedy a material breach after receiving notice of it.
 
-**"Schedules"** means the schedules attached to the Project Terms, being at minimum Schedule 1 (Commercial Terms), Schedule 2 (Scope and Deliverables) and Schedule 3 (Milestones and Payment), and Schedule 4 (Procured Items) where the Developer acquires Procured Items under clause 9A.
+**"Schedules"** means the schedules attached to the Project Terms, being at minimum Schedule 1 (Commercial Terms), Schedule 2 (Scope and Deliverables), Schedule 3 (Milestones and Payment) and Schedule 4 (Procured Items).
 
 **"Software"** means the software the Developer is to develop under the Agreement, as described in Schedule 2, including the Source Code and any documentation delivered with it.
 
@@ -75,6 +75,8 @@ In the Agreement, the following terms have the following meanings:
 **"Total Project Cost"** means the total fees payable for the project as stated in Schedule 1 or, for an Ad Hoc Project, the total invoiced to date.
 
 **"Training Rate"** means the hourly rate for training stated in Schedule 1.
+
+**"Transfer Period"** means the period stated in Schedule 1 within which the Customer must pay for and take transfer of a Procured Item under clause 9A.8.
 
 **"Warranty Period"** means the period stated in Schedule 1 during which the warranties in clause 11.2 apply.
 
@@ -220,13 +222,15 @@ If there is a conflict between the documents making up the Agreement, they take 
 
 9A.3 **Ownership.** The Customer is the beneficial owner of each Procured Item from payment of its cost. Where a Procured Item is registered or held in the Developer's name, the Developer holds it as nominee for the Customer, will not use it for any other purpose, and will act on the Customer's reasonable instructions in respect of it. Clause 10 does not apply to Procured Items.
 
-9A.4 **Transfer.** On the Customer's written request, and in any event on completion or termination of the Agreement, the Developer will transfer each Procured Item to the Customer or its nominee, provided all amounts owing in respect of that Procured Item have been paid. The Customer bears any transfer fees and shall provide the account details needed to receive the transfer. Where the third party provider does not permit transfer, the Developer will cooperate reasonably so that the Customer can obtain an equivalent, and will cancel the Procured Item on the Customer's written instruction.
+9A.4 **Transfer.** On the Customer's written request, and in any event on termination or expiry of the Agreement, the Developer will transfer each Procured Item to the Customer or its nominee, provided all amounts owing in respect of that Procured Item have been paid. The Customer bears any transfer fees and shall provide the account details needed to receive the transfer. Where the third party provider does not permit transfer, the Developer will cooperate reasonably so that the Customer can obtain an equivalent, and will cancel the Procured Item on the Customer's written instruction.
 
 9A.5 **Renewals.** The Developer will give the Customer reasonable notice of any renewal date it is aware of. The Developer is not obliged to renew a Procured Item unless the Customer has instructed the renewal in writing and paid for it. The Developer is not liable for the lapse, loss or suspension of a Procured Item resulting from the Customer's failure to instruct or pay in time.
 
 9A.6 **Third party terms.** The Customer shall comply with the third party provider's terms for each Procured Item. The Developer gives no warranty in respect of Procured Items, and clause 11.3 applies to them. The Customer shall indemnify the Developer against all claims, costs and liabilities arising from the Customer's use of a Procured Item or any content hosted on or through it.
 
 9A.7 **Access.** Until transfer, the Developer may retain administrative control of a Procured Item and will give the Customer the access reasonably necessary for its use.
+
+9A.8 **Unclaimed items.** If, within the Transfer Period after termination or expiry of the Agreement or after the Developer's written notice that a Procured Item is ready for transfer, the Customer has not paid all amounts owing in respect of that Procured Item or has not provided what is needed to receive its transfer, the Developer may cancel the Procured Item or allow it to lapse, without liability to the Customer.
 
 ---
 

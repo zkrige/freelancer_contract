@@ -35,7 +35,7 @@ Changes to a Fixed Scope Project go through a Change Order (clause 6 of the Stan
 
 ## Things bought on the client's behalf
 
-Clients sometimes need you to buy a domain, hosting, a certificate or a subscription for them, and it ends up registered in your name. Clause 9A of the Standard Terms covers this. You buy only on written instruction, bill it at cost (plus a handling fee if Schedule 1 sets one), and hold it as the client's nominee. The client owns it once they have paid for it, and you transfer it to them on request or when the project ends, provided it is paid for. Renewals are the client's call and the client's cost. List known items in Schedule 4; anything bought later on an emailed instruction counts as added to Schedule 4 without a Change Order.
+Clients sometimes need you to buy a domain, hosting, a certificate or a subscription for them, and it ends up registered in your name. Clause 9A of the Standard Terms covers this. You buy only on written instruction, bill it at cost (plus a handling fee if Schedule 1 sets one), and hold it as the client's nominee. The client owns it once they have paid for it, and you transfer it to them on request or when the project ends, provided it is paid for. If the client does not pay for or take an item within the Transfer Period, you may cancel it or let it lapse. Renewals are the client's call and the client's cost. List known items in Schedule 4, and keep Schedule 4 even when it starts empty; anything bought later on an emailed instruction counts as added to Schedule 4 without a Change Order.
 
 ## History
 
